@@ -1,3 +1,14 @@
+/******GLOBAL******/
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 h1 {
   margin-top: 0;
 }
